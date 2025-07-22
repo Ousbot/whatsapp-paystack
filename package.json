@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-paystack-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot that integrates with Paystack for payment and activation.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vincent Otieno <vincentouma398@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.18.2",
+    "whatsapp-web.js": "^1.22.1",
+    "dotenv": "^16.3.1"
+  }
+}
